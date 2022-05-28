@@ -1,0 +1,68 @@
+body {
+    background: url(background.jpg) center;
+    background-size: 120% auto;
+    background-repeat: no-repeat;
+}
+#logo{
+	
+}
+
+#login-box {
+    width: 320px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 15%;
+    text-align: center;
+    background: #0007087a;
+    padding: 20px 50px;
+	border-radius: 15px;
+}
+
+#login-box .form .item {
+    margin-top: 15px;
+}
+
+#login-box .form .item input {
+    width: 220px;
+    font-size: 18px;
+    border: 0;
+    border-bottom: 2px solid white;
+    padding: 5px 10px;
+    background: #ffffff00;
+    color: #ffffff;
+}
+
+#login-box .form .item input[placeholder] {
+    color: white;
+}
+
+#login-box .form .item i {
+    font-size: 18px;
+    color: white;
+}
+
+#login-box button {
+    border: 0;
+    margin-top: 20px;
+    width: 80px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+    background-image: linear-gradient(to left, #1ea8f7 15%, #fc00ff 120%);
+    border-radius: 15px;
+}
+
+#message-box {
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+#zc {
+	color: white;
+	font-size: 10px;
+	margin-left: 260px;
+}
